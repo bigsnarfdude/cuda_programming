@@ -1,4 +1,4 @@
-# GPGPU Programming with CUDA
+# Programming with CUDA
 This repository code from YouTube https://www.youtube.com/watch?v=2NgpYFdsduY
 
 ## Content
